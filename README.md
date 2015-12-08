@@ -1,5 +1,5 @@
 # VRS-Charts
-Aviation chart overlays for Virtual Radar Server. For a live example, see http://flights.hillhome.org/VirtualRadar.
+Aviation chart overlays for Virtual Radar Server. For a live example, see http://flights.hillhome.org and http://flights.hillhome.org/VirtualRadar.
 
 ##Prerequisites
 - VRS installed and running
